@@ -1,4 +1,4 @@
-![image](./assets/images/introduce.gif)
+![image](./assets/images/introduce2.gif)
 
 그릿을 해빗으로 🚀 
 
