@@ -1,5 +1,3 @@
-## 김승현
-
 ![image](./assets/images/introduce.png)
 
 그릿을 해빗으로 🚀 
