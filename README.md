@@ -1,6 +1,6 @@
 Software Engineer.
 
-I am interested in Architect, Web.
+I am interested in Web, Architect.
 
 ### Links
 - Blog: https://heyask.github.io
