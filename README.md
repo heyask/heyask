@@ -1,6 +1,6 @@
 Software Engineer.
 
-I am interested in Web, Architect.
+I am interested in Web, Mobile, Architect.
 
 ### Links
 - Blog: https://sunriv.dev
