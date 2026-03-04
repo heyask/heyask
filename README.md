@@ -3,7 +3,7 @@ Software Engineer.
 I am interested in Web, Mobile, Architect.
 
 ### Links
-- Blog: https://heyask.pages.dev
+- Blog: https://aivesoft.com
 - Play Store: https://play.google.com/store/apps/dev?id=7524065216442055591
 - App Store: https://apps.apple.com/us/developer/id1111882279
 
